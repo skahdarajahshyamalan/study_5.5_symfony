@@ -1320,7 +1320,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "Symfony\\Bundle\\FrameworkBundle\\": ""
+                    "App\\": "src/"
                 },
                 "exclude-from-classmap": [
                     "/Tests/"
